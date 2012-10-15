@@ -22,8 +22,7 @@
 # A few more packages that aren't quite used on all builds
 PRODUCT_PACKAGES := \
 	HoloSpiralWallpaper \
-	LiveWallpapersPicker \
-	VisualizationWallpapers
+	LiveWallpapersPicker
 
 # Set wifi-only before it's set by generic_no_telephony.mk
 PRODUCT_PROPERTY_OVERRIDES += \
